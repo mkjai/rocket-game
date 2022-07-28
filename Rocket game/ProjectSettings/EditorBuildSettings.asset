@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Gap.unity
+    guid: 2cf48d1e6988c7a499a281bd998acb32
+  - enabled: 1
+    path: Assets/Scenes/Moving.unity
+    guid: 0bfcb90fb48d4df4d911cbab3db99391
+  - enabled: 1
+    path: Assets/Scenes/Avoid.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Timing.unity
+    guid: 9cb7642726afbe94088dd53cf6b53281
+  - enabled: 1
+    path: Assets/Scenes/Gap 2.unity
+    guid: 1e88122b1f5b34a4b901e38380c0feb6
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 7c4932f3d96e8584a89d97b5a0920575
+  m_configObjects: {}
